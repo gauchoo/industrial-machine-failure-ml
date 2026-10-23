@@ -40,7 +40,7 @@ Un ejercicio adicional con nueva semilla de división dio para RF: TP 55, FN 15,
 - La columna `Target` y el objetivo construido desde `Failure Type` no son idénticos en esta réplica.
 
 ## Reproducibilidad
-1. Abrir `AI4I_Proyecto01_Ordenado.ipynb` en Kaggle.
+1. Abrir [`industrial-ml-project-01-predictive-maintenanc.ipynb`](industrial-ml-project-01-predictive-maintenanc.ipynb) en Kaggle.
 2. Adjuntar el dataset `shivamb/machine-predictive-maintenance-classification`.
 3. Ejecutar secuencialmente las celdas; algunas son experimentos alternativos y pueden requerir tiempo de cómputo.
 4. Dependencias: `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `xgboost`.
